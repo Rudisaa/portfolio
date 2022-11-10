@@ -1,0 +1,18 @@
+#about-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 5rem;
+    height: 15rem;
+    margin-bottom: 3rem;
+}
+
+
+.about-info {
+    width: 30%;
+    padding: 2rem;
+}
+
+.skill {
+    padding: 2rem;
+}
