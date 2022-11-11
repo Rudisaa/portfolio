@@ -9,12 +9,14 @@ const About = () => {
             </div>
             <div className="skill">
                 <h2>My Skills</h2>
-                <div className="skill-box">html</div>
-                <div className="skill-box">css</div>
-                <div className="skill-box">javascript</div>
-                <div className="skill-box">terminal</div>
-                <div className="skill-box">github</div>
-                <div className="skill-box">git</div>
+                <div className="display-skills">
+                    <div className="skill-box">html</div>
+                    <div className="skill-box">css</div>
+                    <div className="skill-box">javascript</div>
+                    <div className="skill-box">terminal</div>
+                    <div className="skill-box">github</div>
+                    <div className="skill-box">git</div>
+                </div>
             </div>
 
         </section>
